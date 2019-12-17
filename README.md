@@ -1,2 +1,2 @@
 # graphql-playlist
-nodejs, express, graphql
+nodejs, express, graphql, mongodb
