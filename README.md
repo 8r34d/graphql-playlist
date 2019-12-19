@@ -1,2 +1,7 @@
 # graphql-playlist
-nodejs, express, graphql
+
+## client
+react, apollo
+
+## server
+nodejs, express, graphql, mongodb
